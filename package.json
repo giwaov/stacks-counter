@@ -1,5 +1,5 @@
-﻿{
-  "name": "@giwaov/stacks-counter",
+{
+  "name": "@stacksnpmv/stacks-counter",
   "version": "1.0.0",
   "description": "Simple on-chain counter on Stacks",
   "main": "index.js",
@@ -8,7 +8,13 @@
     "build": "echo \"Build complete\" && exit 0",
     "lint": "echo \"Lint passing\" && exit 0"
   },
-  "keywords": ["stacks", "clarity", "bitcoin", "smart-contract", "blockchain"],
+  "keywords": [
+    "stacks",
+    "clarity",
+    "bitcoin",
+    "smart-contract",
+    "blockchain"
+  ],
   "author": "giwaov",
   "license": "MIT",
   "repository": {
